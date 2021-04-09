@@ -1,0 +1,17 @@
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\_GIL_SeperateDocuments.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\_GIL_SeperateDocuments.pdb
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\IDOCore.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\IDOProtocol.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\IDOProtocol.XmlSerializers.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\IDORequestClient.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\IDORequestProcessor.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\IDOWebSvcTestUtility.XmlSerializers.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\MGShared.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\WSEnums.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\bin\Debug\WSFormServerProtocol.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\obj\Debug\_GIL_SeperateDocuments.csproj.CoreCompileInputs.cache
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\obj\Debug\_GIL_SeperateDocuments.csproj.CopyComplete
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\obj\Debug\_GIL_SeperateDocuments.dll
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\obj\Debug\_GIL_SeperateDocuments.pdb
+C:\Users\JustinBrickler\source\repos\_GIL_SeperateDocuments\_GIL_SeperateDocuments\obj\Debug\_GIL_SeperateDocuments.csprojAssemblyReference.cache
